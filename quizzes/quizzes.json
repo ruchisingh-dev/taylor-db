@@ -1,33 +1,574 @@
 [
-  {
-    "name": "swift lyric quiz",
-    "image": "",
-    "discription": "Guess Taylor's swift songs by lyrics!",
-    "category": "lyrics",
-    "question": [
-      {
-        "id": "DJ5QQNYtP6KXKbIo",
-        "question": "Long live all the magic we made.",
-        "Explanation": "These lyrics are from the song 'Long Live,' where Taylor celebrates the moments and memories that will last forever.",
-        "options": [
-          {
-            "text": " Wildest Dreams",
-            "isRight": false
-          },
-          {
-            "text": "Long Live",
-            "isRight": true
-          },
-          {
-            "text": " State of Grace",
-            "isRight": false
-          },
-          {
-            "text": "Holy Ground",
-            "isRight": false
-          }
+    {
+        "name": "swift lyric quiz",
+        "image": "",
+        "description": "Guess Taylor's swift songs by lyrics!",
+        "category": "lyrics",
+        "questionList": [
+            {
+                "id": "DJ5QQNYtP6KXKbIo",
+                "question": "Long live all the magic we made.",
+                "explanation": "These lyrics are from the song 'Long Live,' where Taylor celebrates the moments and memories that will last forever.",
+                "options": [
+                    {
+                        "text": " Wildest Dreams",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Long Live",
+                        "isRight": true
+                    },
+                    {
+                        "text": " State of Grace",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Holy Ground",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "JE0tsTxqOfxnW7hD",
+                "question": "Long live all the magic we made.",
+                "explanation": "These lyrics are from the song 'Long Live,' where Taylor celebrates the moments and memories that will last forever.",
+                "options": [
+                    {
+                        "text": " Wildest Dreams",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Long Live",
+                        "isRight": true
+                    },
+                    {
+                        "text": " State of Grace",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Holy Ground",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "1QWvbKNE6cZxS8Rz",
+                "question": "It's a love story, baby just say yes.",
+                "explanation": "These lyrics are from the song 'Love Story,' where Taylor Swift tells a Romeo and Juliet-inspired love tale.",
+                "options": [
+                    {
+                        "text": "Love Story",
+                        "isRight": true
+                    },
+                    {
+                        "text": "You Belong with Me",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Enchanted",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Mine",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "2ABCdEfGhIjKlMnO",
+                "question": "Got a long list of ex-lovers, they'll tell you I'm insane.",
+                "explanation": "These lyrics are from the song 'Blank Space,' where Taylor Swift addresses the media's portrayal of her love life.",
+                "options": [
+                    {
+                        "text": "Bad Blood",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Style",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Blank Space",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Shake It Off",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "3XyZPqRsTuVWUvIw",
+                "question": "So oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, you need to calm down.",
+                "explanation": "These lyrics are from the song 'You Need To Calm Down,' where Taylor Swift encourages staying calm in the face of negativity.",
+                "options": [
+                    {
+                        "text": "Bad Blood",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Shake It Off",
+                        "isRight": false
+                    },
+                    {
+                        "text": "You Need To Calm Down",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Delicate",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "4LMnOPQRsTuVxYzA",
+                "question": "You're still all over me like a wine-stained dress I can't wear anymore.",
+                "explanation": "These lyrics are from the song 'Clean' where Taylor Swift expressing the feeling of being haunted by the remnants of a past relationship",
+                "options": [
+                    {
+                        "text": "Red",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Clean",
+                        "isRight": true
+                    },
+                    {
+                        "text": "The Last Great American Dynasty",
+                        "isRight": false
+                    },
+                    {
+                        "text": "State of Grace",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "5DEFghIJKLmnOPQR",
+                "question": "You said the way my blue eyes shined put those Georgia stars to shame that night.",
+                "explanation": "These lyrics are from the song 'Tim McGraw,' one of Taylor Swift's early hits.",
+                "options": [
+                    {
+                        "text": "Our Song",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Teardrops on My Guitar",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Tim McGraw",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Fearless",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "7HIjKLmNOPQRXyzA",
+                "question": "And all at once, you are the one I have been waiting for.",
+                "explanation": "These lyrics are from the song 'King of My Heart,' where Taylor Swift tells Sudden realization of a destined connection.",
+                "options": [
+                    {
+                        "text": "King of My Heart",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Sparks Fly",
+                        "isRight": false
+                    },
+                    {
+                        "text": "The Story of Us",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Mine",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "9VWxyZABCDefGHijK",
+                "question": "I could build a castle out of all the bricks they threw at me.",
+                "explanation": "These lyrics are from the song 'New Romantics,' where Taylor Swift embraces resilience in the face of criticism.",
+                "options": [
+                    {
+                        "text": "New Romantics",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Clean",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Out of the Woods",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Style",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "11DEFghIJKLmnOPQR",
+                "question": "It's a cruel summer with you.",
+                "explanation": "These lyrics are from the song 'Cruel Summer,' where Taylor Swift reflects on the complexities of a romantic relationship.",
+                "options": [
+                    {
+                        "text": "Cruel Summer",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Delicate",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Lover",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Style",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "13HIjKLmNOPQRXyzA",
+                "question": "We're happy, free, confused, and lonely at the same time.",
+                "explanation": "These lyrics are from the song '22,' where Taylor Swift captures the conflicting emotions of young adulthood.",
+                "options": [
+                    {
+                        "text": "22",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Shake It Off",
+                        "isRight": false
+                    },
+                    {
+                        "text": "ME!",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Enchanted",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "14JKLmNOPQRStuVWxY",
+                "question": "He said the way my blue eyes shined put those Georgia stars to shame at night.",
+                "explanation": "These lyrics are from the song 'Tim McGraw,' one of Taylor Swift's early hits.",
+                "options": [
+                    {
+                        "text": "Our Song",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Teardrops on My Guitar",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Tim McGraw",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Fearless",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "15VWxyZABCDefGHijK",
+                "question": "Screaming, crying, perfect storms, I can make all the tables turn.",
+                "explanation": "These lyrics are from the song 'Blank Space,' where Taylor Swift addresses the media's portrayal of her love life.",
+                "options": [
+                    {
+                        "text": "Bad Blood",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Style",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Blank Space",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Shake It Off",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "16LMnOPQRsTuVWUvIw",
+                "question": "I'm shining like fireworks over your sad, empty town.",
+                "explanation": "These lyrics are from the song 'Dear John,' where Taylor Swift addresses a past relationship.",
+                "options": [
+                    {
+                        "text": "Dear John",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Back to December",
+                        "isRight": false
+                    },
+                    {
+                        "text": "All Too Well",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Wildest Dreams",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "18DEFghIJKLmnOPQR",
+                "question": "Spelling is fun and fundamental.",
+                "explanation": "These lyrics are from the song 'ME!,' where Taylor Swift emphasizes individuality and self-expression.",
+                "options": [
+                    {
+                        "text": "ME!",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Shake It Off",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Blank Space",
+                        "isRight": false
+                    },
+                    {
+                        "text": "You Need To Calm Down",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "21VWxyZABCDefGHijK",
+                "question": "You're a cowboy like me, perched in the dark.",
+                "explanation": "These lyrics are from the song 'Cowboy Like Me,' where Taylor Swift explores the allure of a mysterious and charming companion.",
+                "options": [
+                    {
+                        "text": "Cowboy Like Me",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Love Story",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Enchanted",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Wildest Dreams",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "24ABCdEfGhIjKlMnO",
+                "question": "We're dancing around the kitchen in the refrigerator light.",
+                "explanation": "These lyrics are from the song 'All Too Well' where Taylor Swift paints a romantic picture of simple moments in a relationship.",
+                "options": [
+                    {
+                        "text": "All Too Well",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Delicate",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Cornelia Street",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Style",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "25LMnOPQRsTuVWUvIw",
+                "question": "I'm sorry, the old Taylor can't come to the phone right now. Why? Oh, 'cause she's dead!",
+                "explanation": "These lyrics are from the song 'Look What You Made Me Do,' where Taylor Swift addresses her changing public image.",
+                "options": [
+                    {
+                        "text": "Look What You Made Me Do",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Blank Space",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Shake It Off",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Bad Blood",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "39DEFghIJKLmnOPQR",
+                "question": "Betty, I won't make assumptions about why you switched your homeroom, but I think it's 'cause of me.",
+                "explanation": "These lyrics are from the song 'Betty,' where Taylor Swift narrates a story from the perspective of a character named James.",
+                "options": [
+                    {
+                        "text": "Betty",
+                        "isRight": true
+                    },
+                    {
+                        "text": "my tears ricochet",
+                        "isRight": false
+                    },
+                    {
+                        "text": "august",
+                        "isRight": false
+                    },
+                    {
+                        "text": "exile",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "42ABCdEfGhIjKlMnO",
+                "question": "And when I felt like I was an old cardigan under someone's bed, you put me on and said I was your favorite.",
+                "explanation": "These lyrics are from the song 'august,' where Taylor Swift tells a story of a summer romance from a different perspective.",
+                "options": [
+                    {
+                        "text": "august",
+                        "isRight": true
+                    },
+                    {
+                        "text": "betty",
+                        "isRight": false
+                    },
+                    {
+                        "text": "my tears ricochet",
+                        "isRight": false
+                    },
+                    {
+                        "text": "invisible string",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "43JKLmNOPQRStuVWxY",
+                "question": "Leaving like a father, running like water, slipping through my fingers.",
+                "explanation": "These lyrics are from the song 'cardigan' where Taylor Swift reflects on the paths not taken in a past relationship.",
+                "options": [
+                    {
+                        "text": "cardigan",
+                        "isRight": true
+                    },
+                    {
+                        "text": "my tears ricochet",
+                        "isRight": false
+                    },
+                    {
+                        "text": "august",
+                        "isRight": false
+                    },
+                    {
+                        "text": "invisible string",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "47STUvWXyzABCDefG",
+                "question": "Can't not think of all the cost and the things that will be lost now.",
+                "explanation": "These lyrics are from the song 'evermore,' where Taylor Swift explores the challenges of maintaining authenticity in the spotlight.",
+                "options": [
+                    {
+                        "text": "evermore",
+                        "isRight": true
+                    },
+                    {
+                        "text": "my tears ricochet",
+                        "isRight": false
+                    },
+                    {
+                        "text": "august",
+                        "isRight": false
+                    },
+                    {
+                        "text": "invisible string",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "47STUvWXyzABCDefG",
+                "question": "Did you hear about the girl who lives in delusion?",
+                "explanation": "These lyrics are from the song 'right where you left me,' where Taylor Swift talk about the girl who forever caught in their own fantasies about what life is",
+                "options": [
+                    {
+                        "text": "right where you left me",
+                        "isRight": true
+                    },
+                    {
+                        "text": "my tears ricochet",
+                        "isRight": false
+                    },
+                    {
+                        "text": "august",
+                        "isRight": false
+                    },
+                    {
+                        "text": "invisible string",
+                        "isRight": false
+                    }
+                ]
+            }
+                               
         ]
-      }
-    ]
-  }
+    },
+    {
+        "name": "Lyrics Lab",
+        "image": "",
+        "description": "Lyrics Lab: Test your musical mettle by completing the missing pieces of your favorite songs!",
+        "category": "lyrics",
+        "questionList": [
+            {
+                "id": "",
+                "question": "I can't help thinking this is how it ought to be \n Laughing on a park bench thinking to myself",
+                "explanation": "",
+                "options": [
+                    {
+                        "text": "Hey, what you doing with a girl like that?",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Can't you see That I'm the one Who understands you?",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Hey, isn't this easy?",
+                        "isRight": true
+                    },
+                    {
+                        "text": "She was just yelling at him!",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                
+            }
+        ]
+    }
 ]
