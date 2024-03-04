@@ -1,0 +1,34 @@
+[{
+    "name": "swift lyric quiz",
+    "image": "",
+    "discription": "Guess Taylor's swift songs by lyrics!",
+    "category": "lyrics",
+    "question": [
+        {
+            "id": "DJ5QQNYtP6KXKbIo",
+            "question": "Long live all the magic we made.",
+            "Explanation": "These lyrics are from the song 'Long Live,' where Taylor celebrates the moments and memories that will last forever.",
+            "options": [
+                {
+                    "text": " Wildest Dreams",
+                    "isRight": false
+                },
+                {
+                    "text": "Long Live",
+                    "isRight": true
+                },
+                {
+                    "text": " State of Grace",
+                    "isRight": false
+                },
+                {
+                    "text": "Holy Ground",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            
+        }
+    ]
+}]
