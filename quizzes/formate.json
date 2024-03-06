@@ -10,7 +10,7 @@
             "Explanation": "",
             "options": [
                 {
-                    "text": " ",
+                    "text": "",
                     "isRight": false
                 },
                 {
@@ -18,7 +18,7 @@
                     "isRight": false
                 },
                 {
-                    "text": " ",
+                    "text": "",
                     "isRight": false
                 },
                 {
@@ -26,9 +26,6 @@
                     "isRight": false
                 }
             ]
-        },
-        {
-            
         }
     ]
 }]

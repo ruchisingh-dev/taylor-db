@@ -546,7 +546,7 @@
             {
                 "id": "",
                 "question": "I can't help thinking this is how it ought to be \n Laughing on a park bench thinking to myself",
-                "explanation": "",
+                "explanation": "The lyrics express contentment with a simple situation. The singer finds joy in a casual moment, thinking 'isn't this easy?' ",
                 "options": [
                     {
                         "text": "Hey, what you doing with a girl like that?",
@@ -567,7 +567,257 @@
                 ]
             },
             {
-                
+                "id": "ZdQShr4nnXA2PcXM",
+                "question": "I was riding shotgun\nWith my hair undone\nIn the front seat of his car",
+                "Explanation": "The lyrics describe a spontaneous moment of capturing a special connection with someone. The narrator feels inspired, likely by a journey together, to write down their 'song' - a personal representation of their unique bond.",
+                "options": [
+                    {
+                        "text": "I wonder if you know\nI'm tryin' so hard not to get caught up now",
+                        "isRight": false
+                    },
+                    {
+                        "text": "I grabbed a pen\nAnd an old napkin\nAnd I wrote down our song",
+                        "isRight": true
+                    },
+                    {
+                        "text": "It's not unbroken anymore\nHow do I get it back the way it was before?",
+                        "isRight": false
+                    },
+                    {
+                        "text": "You walk me to the car\nAnd you know I wanna ask you to dance right there",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "9souIlt0rEyJkLEY",
+                "question": "This night is sparkling, don't you let it go\nI'm wonderstruck, blushing all the way home",
+                "Explanation": "The lyrics capture a feeling of being enchanted by someone on a magical night. Taylor worries the other person might not realize the impact they had.",
+                "options": [
+                    {
+                        "text": "Daffodils on the windowsill\n whispered secrets on the Ferris wheel.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "I'll spend forever wondering if you knew\nThis night is flawless, don't you let it go",
+                        "isRight": true
+                    },
+                    {
+                        "text": "The grudges held like worn out cassette tapes\nplaying on repeat in the dead of night. ",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Our love story written in constellations\nforever etched across the summer sky.",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "wcJueMOlTuyv9OVu",
+                "question": "You walk me to the car\nAnd you know I wanna ask you to dance right there",
+                "Explanation": "Taylor feels a surge of desire to break free and dance with someone, even in an unexpected place like a parking lot.",
+                "options": [
+                    {
+                        "text": "Got a long list of ex-lovers\nthey'll tell you I'm insane.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "In the middle of the parking lot\nYeah, Oh yeah",
+                        "isRight": false
+                    },
+                    {
+                        "text": "I could dance to this beat, beat, beat forevermore.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "And the saddest fear comes creeping in\nthat you never loved me or her or anyone or anything.",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "VACQB8wuk3CsYpSP",
+                "question": "We were built to fall apart\nThen fall back together (back together)",
+                "Explanation": "This lyric describes a passionate, cyclical relationship. They fight ('fall apart') but reconcile ('fall back together'). The 'necklace hanging from my neck' hints at a physical reminder of their connection.",
+                "options": [
+                    {
+                        "text": "Ooh, your necklace hanging from my neck",
+                        "isRight": true
+                    },
+                    {
+                        "text": "You're still all over me like a wine-stained dress I can't wear anymore",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Band-Aids don't fix bullet holes, you say sorry just for show.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "I'm shining like fireworks over your sad, empty town.",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "mu2tPTtPBdGb72lO",
+                "question": "Got a long list of ex-lovers\nThey'll tell you I'm insane",
+                "Explanation": "This snippet portrays the narrator as someone with a history of passionate but volatile relationships. They're drawn to 'players' who enjoy emotional games, despite the resulting instability.",
+                "options": [
+                    {
+                        "text": "You'll be the prince and I'll be the princess\nit's a love story, baby just say yes.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "'Cause you know I love the players\nAnd you love the game",
+                        "isRight": true
+                    },
+                    {
+                        "text": "You're like coming home and I'm on my way.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Long live all the magic we made.",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "Tyl5W4veOf8c1IOu",
+                "question": "They'd say I hustled, put in the work\nThey wouldn't shake their heads and question how much of this I deserve",
+                "Explanation": "These lyrics criticize double standards. They say a woman's contributions are judged based on looks and attitude, while a man's ideas are judged on their own merit.",
+                "options": [
+                    {
+                        "text": "The more I think about it now\nthe less I know.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "You're still a mystery\nI've stood there on that front porch step",
+                        "isRight": false
+                    },
+                    {
+                        "text": "I'm captivated by you, baby\nlike a firework show",
+                        "isRight": false
+                    },
+                    {
+                        "text": "What I was wearing, if I was rude\nCould all be separated from my good ideas and power moves",
+                        "isRight": true
+                    }
+                ]
+            },
+            {
+                "id": "f6oc4rblMbpt09Xq",
+                "question": "He can't see the smile I'm faking\nAnd my heart's not breaking",
+                "Explanation": "These lyrics depict emotional numbness. The narrator appears happy (faking a smile), but feels emotionally detached, suggesting a deep sadness or indifference.",
+                "options": [
+                    {
+                        "text": "I could build a castle out of all the bricks they threw at me",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Time won't fly\nit's like I'm paralyzed by it.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "'Cause I'm not feeling anything at all",
+                        "isRight": false
+                    },
+                    {
+                        "text": "You're still my favorite form of self-destruction",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "TO88kXQ787PtUru7",
+                "question": "I know that I went psycho on the phone\nI never leave well enough alone",
+                "Explanation": "",
+                "options": [
+                    {
+                        "text": "And trouble's gonna follow where I go\n(And there's a lot of cool chicks out there)",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Got a long list of ex-lovers\nthey'll tell you I'm insane",
+                        "isRight": false
+                    },
+                    {
+                        "text": "You're still all over the crosswords on my mind",
+                        "isRight": false
+                    },
+                    {
+                        "text": "I could dance to this beat, beat, beat forevermore",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "7jtmYNoNtySiqplh",
+                "question": "And I can go anywhere I want\nAnywhere I want",
+                "Explanation": "This lyric captures the bittersweet freedom after a painful relationship. The world feels open, but 'home' represents lost love or a place tainted by the past.",
+                "options": [
+                    {
+                        "text": "I'm a crumpled up piece of paper lying here.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Just not home",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Cursing my name",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Look at how my tears ricochet",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "hjeTL9BYMjdJVACp",
+                "question": "Crossing out the good years\nAnd you're cursing my name",
+                "Explanation": "This lyric portrays bitterness in a broken relationship. The speaker feels the ex is erasing happy memories and blaming them, while the speaker's pain lingers.",
+                "options": [
+                    {
+                        "text": "I'd like to be my old self again\nbut I'm still trying to find it.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "The rest of the world was black and white\nbut we were in screaming color.",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Wishing I stayed\nLook at how my tears ricochet",
+                        "isRight": true
+                    },
+                    {
+                        "text": "The stakes are high\nthe water's rough\nbut this love is ours",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "RGFo1N98tNLX1sMk",
+                "question": "It seems like one of those nights\nThis place is too crowded",
+                "Explanation": "The narrator feels out of place at a party or event. They're overwhelmed by the crowd and intimidated by the "cool kids" who don't seem to know (or care about) Taylor Swift. It hints at a yearning to belong and a touch of self-deprecation.",
+                "options": [
+                    {
+                        "text": "Too many cool kids ('Who is Taylor Swift anyway?'), Ah ah, ah ah",
+                        "isRight": true
+                    },
+                    {
+                        "text": "I'm sorry, the old Taylor can't come to the phone right now. Why? Oh, 'cause she's dead",
+                        "isRight": false
+                    },
+                    {
+                        "text": "We're happy, free, confused, and lonely at the same time",
+                        "isRight": false
+                    },
+                    {
+                        "text": "You're still the one I run to, the one that I belong to",
+                        "isRight": false
+                    }
+                ]
             }
         ]
     }
