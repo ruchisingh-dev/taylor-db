@@ -489,7 +489,7 @@
                 ]
             },
             {
-                "id": "47STUvWXyzABCDefG",
+                "id": "NACF2nqJS3kt0jbg",
                 "question": "Can't not think of all the cost and the things that will be lost now.",
                 "explanation": "These lyrics are from the song 'evermore,' where Taylor Swift explores the challenges of maintaining authenticity in the spotlight.",
                 "options": [
@@ -567,6 +567,29 @@
                 ]
             },
             {
+                "id": "8zypGMldTLrC0rUc",
+                "question": "Cause darling, I'm a nightmare dressed like a _____.",
+                "Explanation": "This lyric is from Taylor Swift's song 'Blank Space.' The correct answer is 'dream,' and the line goes, 'Cause darling, I'm a nightmare dressed like a dream.'",
+                "options": [
+                    {
+                        "text": "Princess",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Dream",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Ghost",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Queen",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
                 "id": "ZdQShr4nnXA2PcXM",
                 "question": "I was riding shotgun\nWith my hair undone\nIn the front seat of his car",
                 "Explanation": "The lyrics describe a spontaneous moment of capturing a special connection with someone. The narrator feels inspired, likely by a journey together, to write down their 'song' - a personal representation of their unique bond.",
@@ -613,6 +636,52 @@
                 ]
             },
             {
+                "id": "VdSopbkCXVYzfAon",
+                "question": "And the players gonna play, play, play, play, play. And the haters gonna hate, hate, hate, hate, hate. Baby, I'm just gonna _____, _____, _____, _____, _____.",
+                "Explanation": "These lyrics are from the song 'Shake It Off.' The correct answer is 'shake, shake, shake, shake, shake,' and it reflects the theme of shaking off negativity and enjoying life.",
+                "options": [
+                    {
+                        "text": "Dance, dance, dance, dance, dance",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Sing, sing, sing, sing, sing",
+                        "isRight": false
+                    },
+                    {
+                        "text": " Shake, shake, shake, shake, shake",
+                        "isRight": true
+                    },
+                    {
+                        "text": " Love, love, love, love, love",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "y7Iy78p3j90TwROp",
+                "question": "I knew you were trouble when you walked in. So shame on me now, flew me to places I'd never been. Now I'm lying on the cold hard _____.",
+                "Explanation": "These lyrics are from the song 'I Knew You Were Trouble.' The correct answer is 'ground' and the full line is 'Now I'm lying on the cold hard ground.'",
+                "options": [
+                    {
+                        "text": "Ground",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Floor",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Earth",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Stone",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
                 "id": "wcJueMOlTuyv9OVu",
                 "question": "You walk me to the car\nAnd you know I wanna ask you to dance right there",
                 "Explanation": "Taylor feels a surge of desire to break free and dance with someone, even in an unexpected place like a parking lot.",
@@ -636,6 +705,52 @@
                 ]
             },
             {
+                "id": "p3xC4fQOVF8KVzb0",
+                "question": "You heard the rumors from ______ You can't believe a word she says",
+                "Explanation": "These lyrics are from the song 'betty' The correct answer is 'Inez' and The speaker dismisses rumors about them from Inez, expressing disbelief and skepticism towards her gossip.",
+                "options": [
+                    {
+                        "text": "Emily",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Inez",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Chloe",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Isabella",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "3NeX7ISLDrSfCw3Y",
+                "question": "Take me to the _____ where all the poets went to die",
+                "Explanation": "These lyrics are from the song 'the lakes' The correct answer is 'Lakes' and The speaker longs for a serene place, metaphorically referring to lakes, inspired by where poets found solace.",
+                "options": [
+                    {
+                        "text": "Lakes",
+                        "isRight": true
+                    },
+                    {
+                        "text": "ponds",
+                        "isRight": false
+                    },
+                    {
+                        "text": "palace",
+                        "isRight": false
+                    },
+                    {
+                        "text": "home",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
                 "id": "VACQB8wuk3CsYpSP",
                 "question": "We were built to fall apart\nThen fall back together (back together)",
                 "Explanation": "This lyric describes a passionate, cyclical relationship. They fight ('fall apart') but reconcile ('fall back together'). The 'necklace hanging from my neck' hints at a physical reminder of their connection.",
@@ -654,6 +769,29 @@
                     },
                     {
                         "text": "I'm shining like fireworks over your sad, empty town.",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "ljjshCxmK2uIgu4a",
+                "question": "Tell me, when did your winning _____ Begin to look like a smirk?",
+                "Explanation": "These lyrics are from the song 'happiness' The correct answer is 'smile' and The speaker questions when the once warm and winning smile transformed into a sly or mocking expression.",
+                "options": [
+                    {
+                        "text": "Cheer",
+                        "isRight": false
+                    },
+                    {
+                        "text": "smile",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Glimmer",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Chuckle",
                         "isRight": false
                     }
                 ]
@@ -799,7 +937,7 @@
             {
                 "id": "RGFo1N98tNLX1sMk",
                 "question": "It seems like one of those nights\nThis place is too crowded",
-                "Explanation": "The narrator feels out of place at a party or event. They're overwhelmed by the crowd and intimidated by the "cool kids" who don't seem to know (or care about) Taylor Swift. It hints at a yearning to belong and a touch of self-deprecation.",
+                "Explanation": "The narrator feels out of place at a party or event. They're overwhelmed by the crowd and intimidated by the 'cool kids' who don't seem to know (or care about) Taylor Swift. It hints at a yearning to belong and a touch of self-deprecation.",
                 "options": [
                     {
                         "text": "Too many cool kids ('Who is Taylor Swift anyway?'), Ah ah, ah ah",
