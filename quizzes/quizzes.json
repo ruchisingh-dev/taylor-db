@@ -797,6 +797,29 @@
                 ]
             },
             {
+                "id": "Vr7OwSe5G1fRQMGu",
+                "question": "One for the money, two for the show\nI never was ready, _______",
+                "Explanation": "These lyrics are from the song 'champagne problems' The correct answer is 'so I watch you go' and The speaker counts the moments before a significant event, expressing unpreparedness and regret as someone departs.",
+                "options": [
+                    {
+                        "text": "two for the show",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Everybody wants you",
+                        "isRight": false
+                    },
+                    {
+                        "text": "so I watch you go",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Never leave you standing",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
                 "id": "mu2tPTtPBdGb72lO",
                 "question": "Got a long list of ex-lovers\nThey'll tell you I'm insane",
                 "Explanation": "This snippet portrays the narrator as someone with a history of passionate but volatile relationships. They're drawn to 'players' who enjoy emotional games, despite the resulting instability.",
@@ -839,6 +862,29 @@
                     {
                         "text": "What I was wearing, if I was rude\nCould all be separated from my good ideas and power moves",
                         "isRight": true
+                    }
+                ]
+            },
+            {
+                "id": "6NGXd1iXhHYZarhA",
+                "question": "Hello Mr. '________'\nMr. 'Everything revolves around you'",
+                "Explanation": "These lyrics are from the song 'Mr. Perfectly Fine' The correct answer is 'Casually cruel' and The speaker addresses someone as 'Casually cruel' and notes their self-centered nature, highlighting their indifference and arrogance.",
+                "options": [
+                    {
+                        "text": "Casually cruel",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Perfectly fine",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Change of heart",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Perfect face",
+                        "isRight": false
                     }
                 ]
             },
