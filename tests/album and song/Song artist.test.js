@@ -12,7 +12,7 @@ test("Are valid artist of songs", () => {
         );
         return;
       }
-      expect(song.artist == actualSong.artist).toBe(true);
+      expect(song.artist).toEqual(actualSong.artist);
     });
   });
 });
