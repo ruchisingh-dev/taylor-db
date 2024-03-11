@@ -1,5 +1,5 @@
-const QUIZ = require("../quizzes/quizzes.json");
-const { hasUniqueAnd16CharacterIds } = require("../utils");
+const QUIZ = require("../../quizzes/quizzes.json");
+const { hasUniqueAnd16CharacterIds } = require("../../utils");
 
 test("should have unique and 16-character IDs for each question", () => {
   QUIZ.forEach((quiz) => {

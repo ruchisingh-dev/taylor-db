@@ -4,7 +4,9 @@
   "description": "Data of Taylor",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest",
+    "quiz-test": "npx jest tests/quiz/*",
+    "taylor-test": "npx jest tests/album and song/*"
   },
   "keywords": [],
   "author": "Ruchi and Lakshay",
