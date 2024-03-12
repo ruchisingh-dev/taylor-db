@@ -71,11 +71,14 @@ function areDatesEqual(expectedDate, actualDate) {
   return false;
 }
 
-const areArraysEqual = (arr1, arr2) => {
-  return (
-    arr1.length === arr2.length &&
-    arr1.every((value, index) => value === arr2[index])
-  );
+const areArraysEqual = (array1, array2) => {
+  const set1 = new Set(array1);
+  const set2 = new Set(array2);
+
+  const areArraysEqual =
+    array1.length === array2.length &&
+    [...set1].every((value) => set2.has(value));
+  return areArraysEqual;
 };
 module.exports = {
   areArraysEqual,
