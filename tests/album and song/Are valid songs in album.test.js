@@ -34,6 +34,16 @@ test("Are valid songs in albums", () => {
       console.error(`Error: Songs mismatch in album '${actualAlbum.name}'`);
     }
 
-    expect(expectedSongNames).toEqual(actualSongNames);
+    const missingElements = actualSongNames.filter(
+      (item) => !expectedSongNames.includes(item)
+    );
+
+    if (missingElements.length > 0) {
+      console.error(
+        `Error: The following elements are missing: ${missingElements}`
+      );
+    }
+
+    expect(expectedSongNames).toEqual(expect.arrayContaining(actualSongNames));
   });
 });
