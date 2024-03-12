@@ -1,12 +1,12 @@
 const EVERMORE_ALBUM = {
-  name: "Evermore",
+  name: "evermore",
   releaseDate: ["Dec", 11, 2020],
   songs: [
-    { name: "Willow", duration: "3m 34s", artist: "Taylor Swift" },
+    { name: "willow", duration: "3m 34s", artist: "Taylor Swift" },
     { name: "champagne problems", duration: "4m 4s", artist: "Taylor Swift" },
     { name: "gold rush", duration: "3m 5s", artist: "Taylor Swift" },
     {
-      name: "'tis the dawn season",
+      name: "'tis the damn season",
       duration: "3m 49s",
       artist: "Taylor Swift",
     },
@@ -41,3 +41,4 @@ const EVERMORE_ALBUM = {
     { name: "it's time to go", duration: "4m 14s", artist: "Taylor Swift" },
   ],
 };
+module.exports = EVERMORE_ALBUM;

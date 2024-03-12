@@ -7,6 +7,7 @@ const TAYLORSWIFT_ALBUMS = require("./taylorswift");
 const SPEAK_NOW = require("./speaknow");
 const FOLKLORE_ALBUM = require("./folklore");
 const MIDNIGHTS_ALBUM = require("./midnights");
+const EVERMORE = require("./evermore");
 
 const TAYLOR_ALBUMS = [
   NINETEEN_EIGTHEEN_ALBUM,
@@ -18,5 +19,6 @@ const TAYLOR_ALBUMS = [
   FOLKLORE_ALBUM,
   TAYLORSWIFT_ALBUMS,
   REPUTATION_ALBUM,
+  EVERMORE,
 ];
 module.exports = TAYLOR_ALBUMS;
