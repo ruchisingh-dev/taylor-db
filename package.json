@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx jest",
+    "info": "node album-song-info.js",
     "quiz-test": "npx jest tests/quiz/*",
     "taylor-test": "npx jest tests/album and song/*"
   },
