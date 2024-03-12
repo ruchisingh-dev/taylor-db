@@ -51,7 +51,7 @@
       }
     ],
     "__v": 15,
-    "releaseDate": ["October", 24, 2006]
+    "releaseDate": ["Oct", 24, 2006]
   },
   {
     "_id": {
@@ -126,7 +126,7 @@
     "title": "1989",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/d/d5/Taylor_Swift_-_1989_%28Taylor%27s_Version%29.png",
     "artist": "Taylor Swift",
-    "releaseDate": ["Jan", 1, 2014],
+    "releaseDate": ["Oct", 27, 2014],
     "tracks": [
       {
         "$oid": "65e71af3b056ab50c23db2c0"
@@ -175,9 +175,24 @@
       },
       {
         "$oid": "65e883c0842e4077d456968e"
+      },
+      {
+        "$oid": "65eea8f6b27c2abfabcfe194"
+      },
+      {
+        "$oid": "65eef9de48ab54afc28692ce"
+      },
+      {
+        "$oid": "65eef9de48ab54afc28692d1"
+      },
+      {
+        "$oid": "65eef9df48ab54afc28692d4"
+      },
+      {
+        "$oid": "65eef9df48ab54afc28692d7"
       }
     ],
-    "__v": 19
+    "__v": 21
   },
   {
     "_id": {
@@ -411,9 +426,6 @@
         "$oid": "65ec4d6d25957437d60e7eab"
       },
       {
-        "$oid": "65ec4d6d25957437d60e7eae"
-      },
-      {
         "$oid": "65ec4d6d25957437d60e7eb1"
       },
       {
@@ -637,9 +649,6 @@
       },
       {
         "$oid": "65ec727725957437d60e7f65"
-      },
-      {
-        "$oid": "65ec727825957437d60e7f68"
       }
     ],
     "__v": 4

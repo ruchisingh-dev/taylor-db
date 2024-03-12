@@ -12,8 +12,9 @@ const MIDNIGHTS_ALBUM = {
       artist: "Taylor Swift",
     },
     { name: "Midnight Rain", duration: "2m 55s", artist: "Taylor Swift" },
-    { name: "Question... ?", duration: "3m 21s", artist: "Taylor Swift" },
+    { name: "Question...?", duration: "3m 21s", artist: "Taylor Swift" },
     { name: "Vigilante Shit", duration: "2m 45s", artist: "Taylor Swift" },
+    { name: "Bejeweled", duration: "3m 14s", artist: "Taylor Swift" },
     { name: "Labyrinth", duration: "4m 08s", artist: "Taylor Swift" },
     { name: "Karma", duration: "3m 25s", artist: "Taylor Swift" },
     { name: "Sweet Nothing", duration: "3m 09s", artist: "Taylor Swift" },
@@ -45,6 +46,11 @@ const MIDNIGHTS_ALBUM = {
       artist: "Taylor Swift",
     },
     {
+      name: "Hits Different",
+      duration: "3m 54s",
+      artist: "Taylor Swift",
+    },
+    {
       name: "Dear Reader",
       duration: "3m 45s",
       artist: "Taylor Swift",
@@ -52,16 +58,11 @@ const MIDNIGHTS_ALBUM = {
     {
       name: "Karma (feat. Ice Spice)",
       duration: "3m 21s",
-      artist: "Taylor Swift",
+      artist: "Taylor Swift, Ice Spice",
     },
     {
-      name: "Snow On The Beach (feat. Lana Dal Rey)",
+      name: "Snow On The Beach (feat. Lana Del Rey)",
       duration: "4m 16s",
-      artist: "Taylor Swift, Lana Del Rey",
-    },
-    {
-      name: "Snow On The Beach (feat. More Lana Dal Rey)",
-      duration: "3m 49s",
       artist: "Taylor Swift, Lana Del Rey",
     },
   ],
