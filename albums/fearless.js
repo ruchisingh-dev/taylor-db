@@ -2,7 +2,7 @@ const FEARLESS_ALBUM = {
   name: "Fearless",
   releaseDate: ["Nov", 11, 2008],
   songs: [
-    { name: "Fearless", duration: "4m 1s", artist: "Taylor Swift" },
+    { name: "Fearless", duration: "4m 02s", artist: "Taylor Swift" },
     { name: "Fifteen", duration: "4m 54s", artist: "Taylor Swift" },
     { name: "Love Story", duration: "3m 55s", artist: "Taylor Swift" },
     { name: "Hey Stephen", duration: "4m 14s", artist: "Taylor Swift" },

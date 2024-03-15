@@ -4,7 +4,7 @@ const LOVER_ALBUM = {
   songs: [
     {
       name: "I Forget That You Existed",
-      duration: "3m 50s",
+      duration: "2m 50s",
       artist: "Taylor Swift",
     },
     { name: "Cruel Summer", duration: "2m 58s", artist: "Taylor Swift" },
