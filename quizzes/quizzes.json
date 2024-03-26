@@ -190,7 +190,7 @@
                 ]
             },
             {
-                "id": "9VWxyZABCDefGHijK",
+                "id": "jdRtZXOgBMnskE7L",
                 "question": "I could build a castle out of all the bricks they threw at me.",
                 "explanation": "These lyrics are from the song 'New Romantics,' where Taylor Swift embraces resilience in the face of criticism.",
                 "options": [
@@ -213,7 +213,7 @@
                 ]
             },
             {
-                "id": "11DEFghIJKLmnOPQR",
+                "id": "rBM9J4I8GOz3aqj0",
                 "question": "It's a cruel summer with you.",
                 "explanation": "These lyrics are from the song 'Cruel Summer,' where Taylor Swift reflects on the complexities of a romantic relationship.",
                 "options": [
@@ -236,7 +236,7 @@
                 ]
             },
             {
-                "id": "13HIjKLmNOPQRXyzA",
+                "id": "jQwe7AIzpOb9AySK",
                 "question": "We're happy, free, confused, and lonely at the same time.",
                 "explanation": "These lyrics are from the song '22,' where Taylor Swift captures the conflicting emotions of young adulthood.",
                 "options": [
@@ -259,7 +259,7 @@
                 ]
             },
             {
-                "id": "14JKLmNOPQRStuVWxY",
+                "id": "tO4SfghHq7nMNKoH",
                 "question": "He said the way my blue eyes shined put those Georgia stars to shame at night.",
                 "explanation": "These lyrics are from the song 'Tim McGraw,' one of Taylor Swift's early hits.",
                 "options": [
@@ -282,7 +282,7 @@
                 ]
             },
             {
-                "id": "15VWxyZABCDefGHijK",
+                "id": "FIcdn5ILXu48QwaV",
                 "question": "Screaming, crying, perfect storms, I can make all the tables turn.",
                 "explanation": "These lyrics are from the song 'Blank Space,' where Taylor Swift addresses the media's portrayal of her love life.",
                 "options": [
@@ -305,7 +305,7 @@
                 ]
             },
             {
-                "id": "16LMnOPQRsTuVWUvIw",
+                "id": "n4C2jMHpvWP5MVGx",
                 "question": "I'm shining like fireworks over your sad, empty town.",
                 "explanation": "These lyrics are from the song 'Dear John,' where Taylor Swift addresses a past relationship.",
                 "options": [
@@ -328,7 +328,7 @@
                 ]
             },
             {
-                "id": "18DEFghIJKLmnOPQR",
+                "id": "P8lrqXu7lo2ZelYm",
                 "question": "Spelling is fun and fundamental.",
                 "explanation": "These lyrics are from the song 'ME!,' where Taylor Swift emphasizes individuality and self-expression.",
                 "options": [
@@ -351,7 +351,7 @@
                 ]
             },
             {
-                "id": "21VWxyZABCDefGHijK",
+                "id": "DSzdbE3PxkLcVMUh",
                 "question": "You're a cowboy like me, perched in the dark.",
                 "explanation": "These lyrics are from the song 'Cowboy Like Me,' where Taylor Swift explores the allure of a mysterious and charming companion.",
                 "options": [
@@ -374,7 +374,7 @@
                 ]
             },
             {
-                "id": "24ABCdEfGhIjKlMnO",
+                "id": "TtgCfmEY3BLH80f6",
                 "question": "We're dancing around the kitchen in the refrigerator light.",
                 "explanation": "These lyrics are from the song 'All Too Well' where Taylor Swift paints a romantic picture of simple moments in a relationship.",
                 "options": [
@@ -397,7 +397,7 @@
                 ]
             },
             {
-                "id": "25LMnOPQRsTuVWUvIw",
+                "id": "LMnOPQRsTuVWUvIw",
                 "question": "I'm sorry, the old Taylor can't come to the phone right now. Why? Oh, 'cause she's dead!",
                 "explanation": "These lyrics are from the song 'Look What You Made Me Do,' where Taylor Swift addresses her changing public image.",
                 "options": [
@@ -420,7 +420,7 @@
                 ]
             },
             {
-                "id": "39DEFghIJKLmnOPQR",
+                "id": "FCpEdPdcDpxV6vMS",
                 "question": "Betty, I won't make assumptions about why you switched your homeroom, but I think it's 'cause of me.",
                 "explanation": "These lyrics are from the song 'Betty,' where Taylor Swift narrates a story from the perspective of a character named James.",
                 "options": [
@@ -443,7 +443,7 @@
                 ]
             },
             {
-                "id": "42ABCdEfGhIjKlMnO",
+                "id": "TH8srXTNl8ceXigR",
                 "question": "And when I felt like I was an old cardigan under someone's bed, you put me on and said I was your favorite.",
                 "explanation": "These lyrics are from the song 'august,' where Taylor Swift tells a story of a summer romance from a different perspective.",
                 "options": [
@@ -466,7 +466,7 @@
                 ]
             },
             {
-                "id": "43JKLmNOPQRStuVWxY",
+                "id": "JKLmNOPQRStuVWxY",
                 "question": "Leaving like a father, running like water, slipping through my fingers.",
                 "explanation": "These lyrics are from the song 'cardigan' where Taylor Swift reflects on the paths not taken in a past relationship.",
                 "options": [
@@ -512,7 +512,7 @@
                 ]
             },
             {
-                "id": "47STUvWXyzABCDefG",
+                "id": "B4UEECpccMI6efIS",
                 "question": "Did you hear about the girl who lives in delusion?",
                 "explanation": "These lyrics are from the song 'right where you left me,' where Taylor Swift talk about the girl who forever caught in their own fantasies about what life is",
                 "options": [
@@ -544,7 +544,7 @@
         "category": "lyrics",
         "questionList": [
             {
-                "id": "",
+                "id": "kX9cla9RwMo1cOak",
                 "question": "I can't help thinking this is how it ought to be \n Laughing on a park bench thinking to myself",
                 "explanation": "The lyrics express contentment with a simple situation. The singer finds joy in a casual moment, thinking 'isn't this easy?' ",
                 "options": [
@@ -692,7 +692,7 @@
                     },
                     {
                         "text": "In the middle of the parking lot\nYeah, Oh yeah",
-                        "isRight": false
+                        "isRight": true
                     },
                     {
                         "text": "I could dance to this beat, beat, beat forevermore.",
@@ -903,7 +903,7 @@
                     },
                     {
                         "text": "'Cause I'm not feeling anything at all",
-                        "isRight": false
+                        "isRight": true
                     },
                     {
                         "text": "You're still my favorite form of self-destruction",
