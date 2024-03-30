@@ -1004,5 +1004,243 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Swift Facts: Delve into Taylor's Life",
+        "image": "",
+        "discription": "Explore Taylor Swift's journey in the Swift Life Challenge. How well do you know her?",
+        "category": "Personal matter",
+        "questionList": [
+            {
+                "id": "1gPpQh3E7xfHj9zq",
+                "question": "When was Taylor Swift born?",
+                "Explanation": "Taylor Swift was born on December 13, 1989, in Reading, Pennsylvania, USA.",
+                "options": [
+                    {
+                        "text": "1987",
+                        "isRight": false
+                    },
+                    {
+                        "text": "1990",
+                        "isRight": false
+                    },
+                    {
+                        "text": "1989",
+                        "isRight": true
+                    },
+                    {
+                        "text": "2005",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "EQlQmOPtaZDdXm3p",
+                "question": "In which city did Taylor Swift grow up?",
+                "Explanation": "Taylor Swift spent her early years in Reading, Pennsylvania, before moving to Nashville, Tennessee, to pursue her music career.",
+                "options": [
+                    {
+                        "text": "Nashville, Tennessee",
+                        "isRight": false
+                    },
+                    {
+                        "text": " Los Angeles, California",
+                        "isRight": false
+                    },
+                    {
+                        "text": "New York City, New York",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Reading, Pennsylvania",
+                        "isRight": true
+                    }
+                ]
+            },
+            {
+                "id": "tm0YBbpbVH3Uvq1a",
+                "question": "What was Taylor Swift's debut album?",
+                "Explanation": "Taylor Swift's self-titled debut album was released in 2006, featuring hits like 'Teardrops on My Guitar' and 'Tim McGraw.'",
+                "options": [
+                    {
+                        "text": "Fearless",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Red",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Speak Now",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Taylor Swift",
+                        "isRight": true
+                    }
+                ]
+            },
+            {
+                "id": "twB1M07GP1lDUGh8",
+                "question": "Which of the following awards has Taylor Swift not won?",
+                "Explanation": "While Taylor Swift has won numerous awards including Grammy Awards, MTV Video Music Awards, and Billboard Music Awards, she hasn't won an Academy Award (Oscar) yet.",
+                "options": [
+                    {
+                        "text": "Grammy Award",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Academy Award (Oscar)",
+                        "isRight": true
+                    },
+                    {
+                        "text": "MTV Video Music Award",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Billboard Music Award",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "pwYtpwp2nAiPWQqB",
+                "question": "Which album marked Taylor Swift's transition from country to pop music?",
+                "Explanation": "'1989' released in 2014 marked Taylor Swift's transition from country to pop music, featuring hits like 'Shake It Off' and 'Blank Space.'",
+                "options": [
+                    {
+                        "text": "Fearless",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Speak Now",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Red",
+                        "isRight": false
+                    },
+                    {
+                        "text": "1989",
+                        "isRight": true
+                    }
+                ]
+            },
+            {
+                "id": "B99dlnwaJt8C76Y6",
+                "question": "What is Taylor Swift's middle name?",
+                "Explanation": "Taylor Swift's full name is Taylor Alison Swift, with 'Alison' being her middle name.",
+                "options": [
+                    {
+                        "text": "Marie",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Elizabeth",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Alison",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Nicole",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "CdiqVAY1m2iISMNY",
+                "question": "Which of the following is not a Taylor Swift album?",
+                "Explanation": "'Enchanted' is a song by Taylor Swift from her third studio album 'Speak Now' not an album itself.",
+                "options": [
+                    {
+                        "text": "Lover",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Reputation",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Enchanted",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Folklore",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "VgW2G14lwgjWUEGW",
+                "question": "Which of the following actors has Taylor Swift not been romantically linked to?",
+                "Explanation": "Taylor Swift has not been romantically linked to Leonardo DiCaprio.",
+                "options": [
+                    {
+                        "text": "Tom Hiddleston",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Zac Efron",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Joe Jonas",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Leonardo DiCaprio",
+                        "isRight": true
+                    }
+                ]
+            },
+            {
+                "id": "aNvwbqu0dMyZH2OX",
+                "question": "What is the title of Taylor Swift's documentary released in 2020?",
+                "Explanation": "'Miss Americana' is the title of Taylor Swift's documentary released in 2020, offering an intimate look into her life and career.",
+                "options": [
+                    {
+                        "text": "Miss Americana",
+                        "isRight": true
+                    },
+                    {
+                        "text": "Taylor Swift: The Story of Us",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Swift: Unfiltered",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Speak Now: Taylor's Journey",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "id": "Q3czjY7gJGFDX0b5",
+                "question": "Which of the following record labels is Taylor Swift signed to?",
+                "Explanation": "Taylor Swift is signed to Republic Records.",
+                "options": [
+                    {
+                        "text": "Capitol Records",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Atlantic Records",
+                        "isRight": false
+                    },
+                    {
+                        "text": "RCA Records",
+                        "isRight": false
+                    },
+                    {
+                        "text": "Republic Records",
+                        "isRight": true
+                    }
+                ]
+            }
+        ]
     }
 ]
